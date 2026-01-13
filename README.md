@@ -1,6 +1,6 @@
 # Machine Learning Engineering - Skills Path
 
-- Foundations of Machine Learning Engineering
+- [Foundations of Machine Learning Engineering](./1_ML_Foundations/README.md)
 - Data Engineering for Machine Learning
 - Machine Learning Model Development
 - Model Deployment and Serving
